@@ -821,7 +821,10 @@ for (const key of ["product-details", "event-details"]) {
 }
 write(
     "index.html",
-    '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="0;url=pages/index.html"><title>Table & Tale</title><link rel="icon" href="favicon.svg"><link rel="canonical" href="https://example.com/table-and-tale/pages/index.html"></head><body><p><a href="pages/index.html">Explore Table & Tale</a></p></body></html>',
+    fs.readFileSync(path.join(root, "pages/index.html"), "utf8").replace(
+        "<head>",
+        '<head>\n        <base href="./pages/" />',
+    ),
 );
 write(
     "sitemap.xml",
