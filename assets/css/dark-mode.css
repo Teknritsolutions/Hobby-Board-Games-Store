@@ -1,0 +1,23 @@
+[data-theme="dark"] {
+    color-scheme: dark;
+    --primary: #a5b4fc;
+    --amber: #f2bc68;
+    --accent: #f29a8e;
+    --bg: #111524;
+    --surface: #1c2234;
+    --soft: #202739;
+    --ink: #f5f4f0;
+    --muted: #b7bdd0;
+    --border: #353c50;
+    --on-primary: #111524;
+    --shadow: 0 16px 48px #0002;
+}
+[data-theme="dark"] .stars {
+    color: #f2bc68;
+}
+[data-theme="dark"] .field-error {
+    color: #ffb8ac;
+}
+[data-theme="dark"] [aria-invalid="true"] {
+    border-color: #ffb8ac;
+}

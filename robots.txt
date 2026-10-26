@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Replace example.com with your production origin.
+Sitemap: https://example.com/table-and-tale/sitemap.xml

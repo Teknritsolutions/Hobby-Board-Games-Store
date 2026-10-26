@@ -1,0 +1,21 @@
+/* Set dir="rtl" on <html>. Logical spacing is shared with LTR. */
+[dir="rtl"] .arrow {
+    display: inline-flex;
+    transform: scaleX(-1);
+}
+[dir="rtl"] .hero-image > img {
+    border-radius: 16px 160px 16px 16px;
+}
+[dir="rtl"] .notice {
+    border-radius: 6px 0 0 6px;
+}
+[dir="rtl"] input[type="email"],
+[dir="rtl"] input[type="tel"] {
+    direction: ltr;
+    text-align: right;
+}
+@media (max-width: 575px) {
+    [dir="rtl"] .hero-image > img {
+        border-top-right-radius: 88px;
+    }
+}

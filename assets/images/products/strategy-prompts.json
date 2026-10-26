@@ -1,0 +1,25 @@
+{
+  "generator": "Built-in image generation",
+  "images": [
+    {
+      "id": "citadel",
+      "prompt": "Premium photorealistic landscape product photograph for an original fictional tabletop game called Cedar Citadel. A strategic medieval garden city building board game, wooden citadel towers, terracotta rooftops, hexagonal green terrain tiles, deep forest green box with restrained gold type Cedar Citadel. Beautiful boxed game with its correct title and components arranged on an oak tabletop, warm natural window light, navy and cream backdrop, crisp realistic product photography, no unrelated brand names, no watermarks.",
+      "files": [
+        "citadel-catalog.webp",
+        "citadel-detail.webp",
+        "citadel-finder.webp",
+        "citadel-related.webp"
+      ]
+    },
+    {
+      "id": "starlight",
+      "prompt": "Premium photorealistic landscape product photograph for an original fictional tabletop game called Starlight Routes. A strategic astronomy route building board game, deep indigo star map board, brass observatory pieces, amber route markers and illustrated constellation cards, elegant midnight blue box with gold title Starlight Routes. Beautiful boxed game with its correct title and components arranged on an oak tabletop, warm natural window light, navy and cream backdrop, crisp realistic product photography, no unrelated brand names, no watermarks.",
+      "files": [
+        "starlight-catalog.webp",
+        "starlight-detail.webp",
+        "starlight-finder.webp",
+        "starlight-related.webp"
+      ]
+    }
+  ]
+}

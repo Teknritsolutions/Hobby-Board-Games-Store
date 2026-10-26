@@ -1,0 +1,33 @@
+{
+  "generator": "Built-in image generation",
+  "images": [
+    {
+      "file": "about.webp",
+      "prompt": "Photorealistic editorial landscape website photograph, warm premium independent board game shop, wide view of oak shelves, richly illustrated unbranded game boxes, welcoming communal game table, potted plants, navy walls and amber lamps, natural afternoon light, no people, no logos, no readable text. Distinct composition seen from the shop entrance, refined authentic photography."
+    },
+    {
+      "file": "contact.webp",
+      "prompt": "Photorealistic editorial landscape website photograph, inviting reception counter of a premium independent board game store, helpful shopkeeper behind an oak counter with a neatly arranged unbranded board game display, warm lamps, navy walls, plants, welcoming calm atmosphere, natural skin and hands, no readable text or logos."
+    },
+    {
+      "file": "products.webp",
+      "prompt": "Photorealistic editorial wide landscape photograph, premium board game collection arranged neatly on a large wooden tabletop, strategy terrain tiles, colorful family game wooden pieces, playing cards and puzzle pieces as separate orderly displays, warm amber natural light, navy and cream palette, no logos or readable text, detailed real materials."
+    },
+    {
+      "file": "recommendations.webp",
+      "prompt": "Photorealistic editorial landscape photograph, friendly board game store expert guiding two adult customers through a selection of three different unbranded board games at a wooden consultation table, warm premium shop interior with navy shelves and plants, candid relaxed natural people, no logos or text."
+    },
+    {
+      "file": "events.webp",
+      "prompt": "Photorealistic editorial wide landscape photograph of a board game community night in an inviting premium local shop, diverse group of six adult friends around a large oak table playing a colorful abstract tabletop game, candid smiles, believable hands, warm amber pendants and navy walls, no logos or readable text."
+    },
+    {
+      "file": "coming.webp",
+      "prompt": "Photorealistic editorial wide landscape photograph of a beautiful independent board game shop preparing to open, a closed oak display cabinet with unbranded game boxes and neatly stacked wooden game pieces, soft sunrise through the window, navy walls and warm brass pendant lights, hopeful calm atmosphere, no people, no text or logos."
+    },
+    {
+      "file": "notfound.webp",
+      "prompt": "Photorealistic editorial landscape photograph, playful tabletop maze of wooden path tiles with one small amber wooden pawn at a junction, cozy board game store softly blurred in background, premium handcrafted materials, navy and warm cream palette, gentle natural side lighting, no text or logos."
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+[
+  {
+    "name": "farm",
+    "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/index.html",
+    "pages": [
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/index.html",
+        "title": "Local Farm and CSA | Pure Fields - Organic Produce",
+        "headings": [
+          "Weekly fresh produce from\nlocal farms to your table",
+          "A local CSA built for real weekly routines.",
+          "How the Pure Fields membership works each week.",
+          "Flexible CSA plans and seasonal add-ons.",
+          "A simple subscription flow from plan selection to weekly pickup.",
+          "Short reads for members who want better meals and better timing.",
+          "What members say after the first few deliveries."
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/home-page-2.html",
+        "title": "Pure Fields Home Page 2 | Seasonal Organic Produce",
+        "headings": [
+          "Seasonal produce, flexible plans,\nand local farm delivery",
+          "Seasonal Produce And\nFarm Add-Ons",
+          "Subscription plans\nfor every kind of kitchen.",
+          "Built on local trust\nand seasonal consistency.",
+          "What members notice first.",
+          "Seasonal recipes, storage tips, and updates for CSA members"
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/about.html",
+        "title": "About Pure Fields | Local Farm and CSA Story",
+        "headings": [
+          "The mission and people behind our weekly harvest boxes.",
+          "Seasonal crops packed across the year",
+          "Years building local farm relationships",
+          "Member households served on active routes",
+          "Nearby growers contributing through the season",
+          "Quality is built in the field, not added later in the supply chain.",
+          "Meet the people behind the weekly route.",
+          "From harvest planning to the box at your door.",
+          "Visit the farm, ask a question, or talk to our member support team."
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/products.html",
+        "title": "Products | Pure Fields - CSA Plans and Seasonal Produce",
+        "headings": [
+          "Weekly fresh produce from local farms.",
+          "Choose the box that fits your week.",
+          "A sample weekly box, laid out like a clean catalog spread.",
+          "Boxes change with the harvest.",
+          "Local routes, clear handoff windows.",
+          "A simple loop built for recurring orders.",
+          "Extend the box with pantry and market staples.",
+          "We source close to home and pack for freshness, not shelf life.",
+          "Questions members usually ask before subscribing."
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/blog.html",
+        "title": "Blog | Pure Fields - Recipes, Harvest Notes, and CSA Tips",
+        "headings": [
+          "Recipes, farm updates, seasonal harvest news, and CSA tips.",
+          "Spring roots and leafy greens are leading the box.",
+          "What’s in this week’s box and how to use it well.",
+          "Fresh reading for this season.",
+          "Spring roots, herbs, and tender greens are at their best right now.",
+          "Fast ideas for what arrives this week.",
+          "The people behind the pickup table matter as much as the produce.",
+          "Simple reads for members who want the system to feel easier.",
+          "Get harvest alerts, new recipes, and farm notes by email.",
+          "Like the journal? Start with the box that matches how you cook."
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/contact-us.html",
+        "title": "Contact Us | Pure Fields",
+        "headings": [
+          "Get in touch with our farm team.",
+          "Most member requests are handled within 24 to 48 hours.",
+          "Send the team a message.",
+          "Need a faster answer?",
+          "Visit the farm or find your pickup point."
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/dashboards/admin-dashboard.html",
+        "title": "Admin Overview | Pure Fields",
+        "headings": [
+          "Morning board",
+          "Signals to review"
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/dashboards/user-dashboard.html",
+        "title": "User Overview | Pure Fields",
+        "headings": [
+          "Next delivery",
+          "Subscription controls",
+          "This week’s preview",
+          "Recent account activity"
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/cart.html",
+        "title": "Your CSA Cart | Pure Fields",
+        "headings": [
+          "No plan selected"
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/auth/login.html",
+        "title": "Login | Pure Fields",
+        "headings": [
+          "Welcome Back"
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/auth/register.html",
+        "title": "Register | Pure Fields",
+        "headings": [
+          "Create Account"
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/blog-details.html?article=weekly-box",
+        "title": "What’s In This Week’s CSA Box? | Pure Fields Journal",
+        "headings": [
+          "What’s in this week’s CSA box?",
+          "Seasonal notes from the current route.",
+          "This article matches the current early-spring box pattern.",
+          "Use it well this week.",
+          "Packed from nearby growers on short field-to-pack timelines.",
+          "Keep reading through the season.",
+          "Move from the journal into the box."
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/blog-details.html?article=family-box-dinners",
+        "title": "Three Dinners From One Family Box | Pure Fields Journal",
+        "headings": [
+          "Three dinners from one family box",
+          "Seasonal notes from the current route.",
+          "The family box is especially useful during mixed spring harvests.",
+          "Dinner formats that work well.",
+          "Built around the Family Box route.",
+          "Keep reading through the season.",
+          "Move from the journal into the box."
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/blog-details.html?article=pause-skip-week",
+        "title": "How To Pause Or Skip A Week Without Losing Rhythm | Pure Fields Journal",
+        "headings": [
+          "How to pause or skip a week without losing rhythm",
+          "Seasonal notes from the current route.",
+          "Membership flexibility matters during busy harvest transitions.",
+          "Practical actions members should take.",
+          "Built from member support patterns across the CSA cycle.",
+          "Keep reading through the season.",
+          "Move from the journal into the box."
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/privacy-policy.html",
+        "title": "Privacy Policy | Pure Fields",
+        "headings": [
+          "How Pure Fields handles member data.",
+          "Information We Collect",
+          "How We Use Information",
+          "Delivery, Billing, And Support Records",
+          "Sharing And Retention",
+          "Your Choices"
+        ]
+      },
+      {
+        "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/terms-and-conditions.html",
+        "title": "Terms & Conditions | Pure Fields",
+        "headings": [
+          "Membership, billing, and delivery terms.",
+          "Membership And Orders",
+          "Account Responsibilities",
+          "Delivery And Pickup Changes",
+          "Billing, Pauses, And Cancellations",
+          "Site Use And Contact"
+        ]
+      }
+    ],
+    "status": 200
+  },
+  {
+    "name": "events",
+    "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/index.html",
+    "pages": [
+      {
+        "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/index.html",
+        "title": "IMPERIA Events | Luxury Event Planning & Styling Studio",
+        "headings": [
+          "Crafting Unforgettable Luxury Events",
+          "Luxury Planning, Seamlessly Curated",
+          "Celebrations Crafted with Vision",
+          "Your Celebration, Thoughtfully Crafted",
+          "Designing Experiences, Not Just Events",
+          "Luxury Collections, Tailored to Your Vision",
+          "Every Celebration, A Lasting Memory",
+          "Let’s Create Something Extraordinary"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/homepage2.html",
+        "title": "IMPERIA Events | Luxury Event Planning & Styling Studio",
+        "headings": [
+          "Designing Elegant Experiences",
+          "Designed for Seamless Event Experiences",
+          "Where Luxury Meets Precision",
+          "Curated Moodboards for Every Vision",
+          "Plan Smarter, Execute Seamlessly",
+          "Designed for Every Celebration",
+          "Luxury Experiences, Told by Our Clients",
+          "Start Planning Smarter Today"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/about.html",
+        "title": "IMPERIA Events | Luxury Event Planning & Styling Studio",
+        "headings": [
+          "Crafting Experiences That Define Moments",
+          "Our Story",
+          "Meet the Vision Behind IMPERIA",
+          "Principles That Define IMPERIA",
+          "From Vision to Iconic Experiences",
+          "Numbers That Define Excellence",
+          "Let’s Create Something Exceptional"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/services.html",
+        "title": "IMPERIA Events | Luxury Event Planning & Styling Studio",
+        "headings": [
+          "Luxury Services, Seamlessly Delivered",
+          "Curated Experiences for Every Occasion",
+          "Bespoke Wedding Planning",
+          "From Vision to Execution",
+          "Luxury Packages Tailored for You",
+          "Signature Experiences We’ve Crafted",
+          "Start Your Experience with IMPERIA"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/pricing.html",
+        "title": "IMPERIA Events | Luxury Event Planning & Styling Studio",
+        "headings": [
+          "Luxury Experiences, Transparent Pricing",
+          "Choose the Right Experience",
+          "What You’re Investing In",
+          "Ready to Plan Your Event?"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/contact.html",
+        "title": "IMPERIA Events | Luxury Event Planning & Styling Studio",
+        "headings": [
+          "Let's Begin Your Experience",
+          "Your Event Begins Here"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/userdashboard.html",
+        "title": "IMPERIA Events | Client Dashboard",
+        "headings": [
+          "Welcome back, Isabella",
+          "Upcoming Celebrations",
+          "Design Direction",
+          "Trusted Partners",
+          "Production Milestones",
+          "Concierge Inbox",
+          "Account Preferences"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/admindashboard.html",
+        "title": "IMPERIA Events | Admin Dashboard",
+        "headings": [
+          "Welcome back, Ava",
+          "Client Portfolio",
+          "Elite Partners",
+          "Upcoming Commitments",
+          "Studio Assets",
+          "Team Inbox",
+          "Insights & Growth",
+          "Studio Preferences"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/login.html",
+        "title": "IMPERIA Events | Login",
+        "headings": [
+          "Welcome Back to Your Private Studio",
+          "Sign In"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/register.html",
+        "title": "IMPERIA Events | Register",
+        "headings": [
+          "Begin Your Luxury Journey",
+          "Create Account"
+        ]
+      }
+    ],
+    "status": 200
+  },
+  {
+    "name": "books",
+    "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/index.html",
+    "pages": [
+      {
+        "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/index.html",
+        "title": "Local Indie Bookstore",
+        "headings": [
+          "Explore Stories From Independent Bookshops",
+          "Featured Books",
+          "Staff Picks",
+          "Browse Book Categories",
+          "What Our Readers Say",
+          "Bookstore Moments",
+          "Author Events",
+          "Subscribe to Our Newsletter"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/Home%20page%202.html",
+        "title": "Inksire Books - Indie Bookshop",
+        "headings": [
+          "A Home for Book Lovers & Story Seekers",
+          "Curated Book Collections",
+          "Staff Picks",
+          "Upcoming Author Events",
+          "Bookstore Moments",
+          "Stay Updated with New Books"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/services.html",
+        "title": "Inksire Books - Indie Bookshop",
+        "headings": [
+          "Book Services That Feel Personal",
+          "Our Bookstore Services",
+          "Find Your Next Favorite Book",
+          "Join Our Book Clubs",
+          "Book Subscription Boxes",
+          "Frequently Asked Questions"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/blog.html",
+        "title": "Inksire Books - Indie Bookshop",
+        "headings": [
+          "Stories, Reviews & Literary Discoveries",
+          "Featured Article",
+          "Latest Articles",
+          "Book Review Highlights",
+          "Author Spotlight"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/about.html",
+        "title": "Inksire Books - Indie Bookshop",
+        "headings": [
+          "A Place Where Stories Live",
+          "Our Story",
+          "Our Book Community",
+          "Visit Our Bookshop"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/contact.html",
+        "title": "Inksire Books - Indie Bookshop",
+        "headings": [
+          "Let’s Talk About Books",
+          "Get in Touch"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/Admin%20Dashboard.html",
+        "title": "Admin Dashboard - Indie Bookstore",
+        "headings": [
+          "Dashboard",
+          "$45,231",
+          "1,204",
+          "23",
+          "450",
+          "38",
+          "3.2%",
+          "Users",
+          "Products",
+          "Analytics",
+          "Settings"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/User%20Dashboard.html",
+        "title": "User Dashboard - Indie Bookstore",
+        "headings": [
+          "Dashboard",
+          "24",
+          "1,540",
+          "2",
+          "My Orders",
+          "Wishlist",
+          "Products",
+          "Reading Goals",
+          "Recommendations",
+          "Profile",
+          "Support"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/login.html",
+        "title": "Inksire Books - Login",
+        "headings": [
+          "A World of Stories Awaits",
+          "Welcome Back"
+        ]
+      }
+    ],
+    "status": 200
+  },
+  {
+    "name": "food",
+    "url": "https://teknrit-maker.github.io/FoodTruck/Pages/menu.html",
+    "pages": [
+      {
+        "url": "https://teknrit-maker.github.io/FoodTruck/Pages/menu.html",
+        "title": "Food Truck",
+        "headings": [
+          "Explore Our Delicious Menu",
+          "Browse Our Menu",
+          "BBQ Chicken Signature Pizza",
+          "Craving Something Delicious?",
+          "Food Name"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/FoodTruck/Pages/index.html",
+        "title": "Food Truck",
+        "headings": [
+          "Delicious Food\nFrom Our Mobile Kitchen",
+          "Popular Dishes",
+          "Where to Find Us This Week",
+          "About Our Food Truck",
+          "Catering & Private Events",
+          "What Our Customers Say",
+          "Book Our Food Truck for Your Next Event"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/FoodTruck/Pages/home2.html",
+        "title": "Food Truck",
+        "headings": [
+          "Authentic Street Food\nMade Fresh Daily",
+          "Serving Fresh Street Food With Passion",
+          "Our Delicious Creations",
+          "Weekly Truck Schedule",
+          "Popular Dishes",
+          "Follow Our Food Journey",
+          "Meet the Culinary Team",
+          "Book Our Food Truck For Your Next Event"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/FoodTruck/Pages/about.html",
+        "title": "Food Truck",
+        "headings": [
+          "Our Food Truck Story",
+          "Our Journey from Passion to Flavor",
+          "Why Choose Our Food Truck",
+          "Meet the Culinary Team",
+          "Ready to Taste Our Street Food?"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/FoodTruck/Pages/blog.html",
+        "title": "Food Truck",
+        "headings": [
+          "The Story Behind Our Food Truck",
+          "Follow Our Food Journey"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/FoodTruck/Pages/schedule.html",
+        "title": "Food Truck",
+        "headings": [
+          "Find Our Food Truck",
+          "Weekly Truck Schedule",
+          "Upcoming Food Truck Events",
+          "Book Our Food Truck for Your Next Event"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/FoodTruck/Pages/catering.html",
+        "title": "Food Truck",
+        "headings": [
+          "Food Truck Catering",
+          "Catering Menu",
+          "Catering Packages"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/FoodTruck/Pages/contact.html",
+        "title": "Food Truck",
+        "headings": [
+          "Book Our Food Truck",
+          "Perfect for Every Event",
+          "Book Our Food Truck"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/FoodTruck/Pages/login.html",
+        "title": "Document",
+        "headings": [
+          "Sign in to StreetBite"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/FoodTruck/Pages/blogdetails.html",
+        "title": "Food Truck",
+        "headings": [
+          "The Story Behind Our Food Truck"
+        ]
+      },
+      {
+        "url": "https://teknrit-maker.github.io/FoodTruck/Pages/register.html",
+        "title": "Document",
+        "headings": [
+          "Join the StreetBite crew"
+        ]
+      }
+    ],
+    "status": 200
+  },
+  {
+    "name": "yarn",
+    "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/",
+    "pages": [
+      {
+        "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/",
+        "title": "Boutique Yarn - Premium Craft Supplies",
+        "headings": [
+          "Design-led yarns for modern makers.",
+          "Atelier Picks",
+          "Signature Pattern Library",
+          "Crafted For Modern Makers",
+          "Loved By Yarn Makers",
+          "Pricing Built for Modern Studios",
+          "Latest From The Atelier",
+          "Start your next masterpiece with our premium yarn library."
+        ]
+      },
+      {
+        "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/index.html",
+        "title": "Boutique Yarn - Premium Craft Supplies",
+        "headings": [
+          "Design-led yarns for modern makers.",
+          "Atelier Picks",
+          "Signature Pattern Library",
+          "Crafted For Modern Makers",
+          "Loved By Yarn Makers",
+          "Pricing Built for Modern Studios",
+          "Latest From The Atelier",
+          "Start your next masterpiece with our premium yarn library."
+        ]
+      },
+      {
+        "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/home%20page2.html",
+        "title": "Boutique Yarn - Premium Craft Supplies",
+        "headings": [
+          "Craft with intention, styled for the modern atelier.",
+          "Rated 4.9/5 by boutique studios worldwide",
+          "Common Challenges",
+          "Our Solution",
+          "Powerful Features",
+          "How It Works",
+          "Signature Pattern Library",
+          "Loved By Yarn Makers",
+          "Flexible Plans for Every Studio",
+          "Start Your Craft Journey Today"
+        ]
+      },
+      {
+        "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/about.html",
+        "title": "Boutique Yarn - Premium Craft Supplies",
+        "headings": [
+          "Crafting Stories Through Every Thread",
+          "From a Single Thread to a Creative Movement",
+          "Mission & Vision",
+          "By The Numbers",
+          "10,000+",
+          "500+",
+          "4.9 ",
+          "50+",
+          "Meet The Makers",
+          "What We Stand For",
+          "Loved By Creative Studios"
+        ]
+      },
+      {
+        "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/products.html",
+        "title": "Boutique Yarn - Premium Craft Supplies",
+        "headings": [
+          "Premium Yarn Kit",
+          "Premium Handmade Yarn Kit",
+          "Designed For Premium Crafting",
+          "Made To Feel Exceptional",
+          "Crafted for Creators Who Value Quality",
+          "Every Angle, Every Texture",
+          "You May Also Like",
+          "Craft With Confidence",
+          "Frequently Asked Questions"
+        ]
+      },
+      {
+        "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/blog.html",
+        "title": "Boutique Yarn - Premium Craft Supplies",
+        "headings": [
+          "Crafting Stories Through Every Thread: Why Handmade Matters More Than Ever",
+          "Featured Articles",
+          "Latest Articles",
+          "Start Your Creative Journey"
+        ]
+      },
+      {
+        "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/contact.html",
+        "title": "Boutique Yarn - Premium Craft Supplies",
+        "headings": [
+          "Let's Create Something Beautiful Together",
+          "Tell Us About Your Project",
+          "Get in Touch",
+          "Choose Your Inquiry",
+          "Need quick help?"
+        ]
+      },
+      {
+        "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/user%20dashboard.html",
+        "title": "Boutique Yarn - Client Dashboard",
+        "headings": [
+          "Client Dashboard"
+        ]
+      },
+      {
+        "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/admin%20dashbaord.html",
+        "title": "Boutique Yarn - Admin Dashboard",
+        "headings": [
+          "Admin Dashboard"
+        ]
+      },
+      {
+        "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/login.html",
+        "title": "Login page",
+        "headings": [
+          "Welcome back to your Atelier",
+          "Sign in"
+        ]
+      },
+      {
+        "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/blog%20details.html",
+        "title": "Boutique Yarn - Admin Dashboard",
+        "headings": [
+          "Admin Dashboard"
+        ]
+      }
+    ],
+    "status": 200
+  }
+]

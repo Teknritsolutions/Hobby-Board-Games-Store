@@ -1,0 +1,596 @@
+[
+  {
+    "file": "assets/images/about/our-story.webp",
+    "page": "pages/about.html",
+    "subject": "our story",
+    "width": 1200,
+    "height": 800,
+    "bytes": 181016,
+    "sha256": "fc13ad77270efe674e00e69c2a57b98ade3e28f4cde48c381b8114cc91bbd3ef"
+  },
+  {
+    "file": "assets/images/about/team-ellis.webp",
+    "page": "pages/about.html",
+    "subject": "team ellis",
+    "width": 1200,
+    "height": 800,
+    "bytes": 103068,
+    "sha256": "f8106eaaab86d1d0a227ff603775f6d11e55e4b3244bce3501166bc491ac14ad"
+  },
+  {
+    "file": "assets/images/about/team-jules.webp",
+    "page": "pages/about.html",
+    "subject": "team jules",
+    "width": 1200,
+    "height": 800,
+    "bytes": 99926,
+    "sha256": "dc0e507fced8ddc034c284d32946d27056faa61c385b46e8837b0e37fa61867b"
+  },
+  {
+    "file": "assets/images/about/team-mara.webp",
+    "page": "pages/about.html",
+    "subject": "team mara",
+    "width": 1200,
+    "height": 800,
+    "bytes": 93196,
+    "sha256": "eac2b2210452a7c97328244ad124a8097dabf6170f6114bffeffc06ddbb6212a"
+  },
+  {
+    "file": "assets/images/events/family-detail.webp",
+    "page": "pages/event-details.html",
+    "subject": "family detail",
+    "width": 1200,
+    "height": 800,
+    "bytes": 115926,
+    "sha256": "9c17e78adb2ff159572960259454c23982964d565d6003349f52059c818f0eb7"
+  },
+  {
+    "file": "assets/images/events/family.webp",
+    "page": "Optional event photograph supplied in asset library",
+    "subject": "family",
+    "width": 1200,
+    "height": 800,
+    "bytes": 141450,
+    "sha256": "951905ac986af5e750535e2281ecb55e218f13b679081ae7ff33aeeb9eb98162"
+  },
+  {
+    "file": "assets/images/events/rpg-detail.webp",
+    "page": "pages/event-details.html",
+    "subject": "rpg detail",
+    "width": 1200,
+    "height": 800,
+    "bytes": 130018,
+    "sha256": "7fcc058d8c5aa5031a77686cbe9141393f94afabc15da2132f344386a293fa86"
+  },
+  {
+    "file": "assets/images/events/rpg.webp",
+    "page": "Optional event photograph supplied in asset library",
+    "subject": "rpg",
+    "width": 1200,
+    "height": 800,
+    "bytes": 122496,
+    "sha256": "4ecaa3e10d65763e8dc0b877e2398fbe9fa6a4be79bfaf3ad1cc0bbe70264ec4"
+  },
+  {
+    "file": "assets/images/events/strategy-detail.webp",
+    "page": "pages/event-details.html",
+    "subject": "strategy detail",
+    "width": 1200,
+    "height": 800,
+    "bytes": 158582,
+    "sha256": "b53b58c72d220e05d53f2bedefd6355c7145b63b52ca3271072bc344dff5e70d"
+  },
+  {
+    "file": "assets/images/events/strategy.webp",
+    "page": "pages/events.html",
+    "subject": "strategy",
+    "width": 1200,
+    "height": 800,
+    "bytes": 136352,
+    "sha256": "25f003d6bb68b1abe13ce22ecc4842903b6b1ed0cac79138a89b45106feeac41"
+  },
+  {
+    "file": "assets/images/home-2/community-hero.webp",
+    "page": "pages/index-2.html",
+    "subject": "community hero",
+    "width": 1200,
+    "height": 800,
+    "bytes": 127194,
+    "sha256": "74b979cd55c87f33df17501e69ffb4445e77040a1834695f70dbfbbf5c9baa22"
+  },
+  {
+    "file": "assets/images/home-2/featured-night.webp",
+    "page": "pages/index-2.html",
+    "subject": "featured night",
+    "width": 1200,
+    "height": 800,
+    "bytes": 168464,
+    "sha256": "f2fab92fa31f8ca64674759e05b214006edef0a9f62b77ba4d5fbb840e616504"
+  },
+  {
+    "file": "assets/images/home-2/moment-one.webp",
+    "page": "pages/index-2.html",
+    "subject": "moment one",
+    "width": 1200,
+    "height": 800,
+    "bytes": 109292,
+    "sha256": "b429db4e4195a3ecfc8ba41301759f46ee5b646125c88242367ff18851820ff8"
+  },
+  {
+    "file": "assets/images/home-2/moment-three.webp",
+    "page": "pages/index-2.html",
+    "subject": "moment three",
+    "width": 1200,
+    "height": 800,
+    "bytes": 121542,
+    "sha256": "58bedf8f2aac6553dc0642ed2225d9a4cc9d38337396ad144f50eaad750428bc"
+  },
+  {
+    "file": "assets/images/home-2/moment-two.webp",
+    "page": "pages/index-2.html",
+    "subject": "moment two",
+    "width": 1200,
+    "height": 800,
+    "bytes": 70666,
+    "sha256": "3389958dc4915b27c1940873b3b202b4b33a9e7888428878b9a3f7feb8c6228d"
+  },
+  {
+    "file": "assets/images/home-2/store-story.webp",
+    "page": "pages/index-2.html",
+    "subject": "store story",
+    "width": 1200,
+    "height": 800,
+    "bytes": 178026,
+    "sha256": "5c201730d82578a8f00fc6cbcde5705771ca3d543709ba4dadd258e79b2a28d0"
+  },
+  {
+    "file": "assets/images/home/find-your-game.webp",
+    "page": "pages/index.html",
+    "subject": "find your game",
+    "width": 1200,
+    "height": 800,
+    "bytes": 121554,
+    "sha256": "970de7ad3db793e3ea9a4baf2f66206bda4276b9feae105e0cf6c460340329cd"
+  },
+  {
+    "file": "assets/images/home/tabletop-hero.webp",
+    "page": "pages/index.html",
+    "subject": "tabletop hero",
+    "width": 1400,
+    "height": 933,
+    "bytes": 173960,
+    "sha256": "1093f7952fedea5bb84a8aae9a0f6a4001b6b844a1332dafe18dbfd2d962b13b"
+  },
+  {
+    "file": "assets/images/home/weekly-atlas.webp",
+    "page": "pages/index.html",
+    "subject": "weekly atlas",
+    "width": 1200,
+    "height": 800,
+    "bytes": 220378,
+    "sha256": "8daa8f654d2273b4e2c642b8bfdeb3ddb17763274f84aefd0ee8444f6b616ff3"
+  },
+  {
+    "file": "assets/images/products/atlas-catalog.webp",
+    "page": "pages/products.html",
+    "subject": "Atlas of the Wild · catalog view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 186714,
+    "sha256": "ab424207390a98c372c34ce8bc72c835958c838c608356ef01e181f418b1245b"
+  },
+  {
+    "file": "assets/images/products/atlas-detail.webp",
+    "page": "pages/product-details.html",
+    "subject": "Atlas of the Wild · detail view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 330858,
+    "sha256": "f8af4e979134fe308ca8239cb6d8d8b1334bce915fecc36a116e892b2b6f7de3"
+  },
+  {
+    "file": "assets/images/products/atlas-finder.webp",
+    "page": "pages/recommendations.html",
+    "subject": "Atlas of the Wild · finder view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 313248,
+    "sha256": "ba6667286519dc8f57d689f60bef8d1bb19274417aaa64894b33e36b55d854d7"
+  },
+  {
+    "file": "assets/images/products/atlas-home.webp",
+    "page": "pages/index.html",
+    "subject": "Atlas of the Wild · home view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 258180,
+    "sha256": "b735489aff98b3b5d67031c6c5adbe9c4da07a51e6d3949d5f3195928c151bce"
+  },
+  {
+    "file": "assets/images/products/atlas-related.webp",
+    "page": "pages/product-details.html · Related games",
+    "subject": "Atlas of the Wild · related view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 230558,
+    "sha256": "6fa251e755d5bb0a724706a360213442dc08049eba5e543a1b7bcbd1e9f1a515"
+  },
+  {
+    "file": "assets/images/products/bloom-catalog.webp",
+    "page": "pages/products.html",
+    "subject": "Botanical Hours · catalog view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 185672,
+    "sha256": "acc0e14bf3d57b7a66899373dfd469af62728b5cf3605fdcf98c59324c28f179"
+  },
+  {
+    "file": "assets/images/products/bloom-detail.webp",
+    "page": "pages/product-details.html",
+    "subject": "Botanical Hours · detail view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 315232,
+    "sha256": "75a4e8cd8da8297d34d576e9377aa0311b5e15b2e7685d450ad034f25f74ed4d"
+  },
+  {
+    "file": "assets/images/products/bloom-finder.webp",
+    "page": "pages/recommendations.html",
+    "subject": "Botanical Hours · finder view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 311168,
+    "sha256": "6c4e38b1cef634a46e68bb4239ae38d8f4c9d9adbac697e302e87dc304dbf90a"
+  },
+  {
+    "file": "assets/images/products/bloom-home.webp",
+    "page": "pages/index.html",
+    "subject": "Botanical Hours · home view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 219354,
+    "sha256": "d9bcefd09743ca2a307d664743266311d2d112a1deabb4d01735bdd0854ca39b"
+  },
+  {
+    "file": "assets/images/products/bloom-related.webp",
+    "page": "pages/product-details.html · Related games",
+    "subject": "Botanical Hours · related view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 244388,
+    "sha256": "2e37e42373008a74e0c2b69a26006d7295161bfa87bd82e37f0fba2eade8c10a"
+  },
+  {
+    "file": "assets/images/products/canopy-catalog.webp",
+    "page": "pages/products.html",
+    "subject": "Little Canopy · catalog view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 173060,
+    "sha256": "595f1866a9dcfac5816276b489e49d9c7b27423edd5a1c63c3381f4dfbd1d44b"
+  },
+  {
+    "file": "assets/images/products/canopy-detail.webp",
+    "page": "pages/product-details.html",
+    "subject": "Little Canopy · detail view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 269636,
+    "sha256": "120c9b6d667360126fb582e048321d14c609fc7e7d80394e9509abb67b8fc1f8"
+  },
+  {
+    "file": "assets/images/products/canopy-finder.webp",
+    "page": "pages/recommendations.html",
+    "subject": "Little Canopy · finder view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 265232,
+    "sha256": "ec1e4f142dc749e2286879da0a4c8ce4ce80076b16dabee949fee9964cd1c817"
+  },
+  {
+    "file": "assets/images/products/canopy-home.webp",
+    "page": "pages/index.html",
+    "subject": "Little Canopy · home view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 188760,
+    "sha256": "0991a4d11573d53eb53507bcf8f3b72cbe025735fdcfed178210ffd911bbec28"
+  },
+  {
+    "file": "assets/images/products/canopy-related.webp",
+    "page": "pages/product-details.html · Related games",
+    "subject": "Little Canopy · related view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 218484,
+    "sha256": "f29ac76e6ed774bda9d404683f81f3e612226f8dd60c302209dab0b566b357d2"
+  },
+  {
+    "file": "assets/images/products/dice-catalog.webp",
+    "page": "pages/products.html",
+    "subject": "Emberstone Dice · catalog view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 165100,
+    "sha256": "356556cabd65ea005acde20406b0e7dfeb1e4d6a5d3890953a442ce4f72c159d"
+  },
+  {
+    "file": "assets/images/products/dice-detail.webp",
+    "page": "pages/product-details.html",
+    "subject": "Emberstone Dice · detail view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 280170,
+    "sha256": "9dd2116c0e7e4b909e4c48bcfc3d105481c743e4adb56042482838165b754b24"
+  },
+  {
+    "file": "assets/images/products/dice-finder.webp",
+    "page": "pages/recommendations.html",
+    "subject": "Emberstone Dice · finder view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 272088,
+    "sha256": "b8cfa844f2dccd3cc1570fed9c95b262544360d4af6585729afbe11d4c6c27d3"
+  },
+  {
+    "file": "assets/images/products/dice-home.webp",
+    "page": "pages/index.html",
+    "subject": "Emberstone Dice · home view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 194062,
+    "sha256": "36268dc82461a83ee65cb15e6c8909bbbe5279bbb58871472a19338a34f5f521"
+  },
+  {
+    "file": "assets/images/products/dice-related.webp",
+    "page": "pages/product-details.html · Related games",
+    "subject": "Emberstone Dice · related view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 225032,
+    "sha256": "5c730879ebb99eff34905b48384c3b8b548f143c5d97312bc6772408693f28c8"
+  },
+  {
+    "file": "assets/images/products/fox-catalog.webp",
+    "page": "pages/products.html",
+    "subject": "Fox & Fable · catalog view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 125202,
+    "sha256": "551eb91460ca36c7a9fbb42338cb82839c81cd73bbfce5d11acacc2fe1b3f0b6"
+  },
+  {
+    "file": "assets/images/products/fox-detail.webp",
+    "page": "pages/product-details.html",
+    "subject": "Fox & Fable · detail view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 313008,
+    "sha256": "d049bf0484d2103e26bb5fc5fc4af16a0d004f18ebe45e5373bfcba547cab5ad"
+  },
+  {
+    "file": "assets/images/products/fox-finder.webp",
+    "page": "pages/recommendations.html",
+    "subject": "Fox & Fable · finder view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 283634,
+    "sha256": "5154acd8085c6f56b118a16c3c2a023590cb311ccec062c1f27006da1eab10cc"
+  },
+  {
+    "file": "assets/images/products/fox-related.webp",
+    "page": "pages/product-details.html · Related games",
+    "subject": "Fox & Fable · related view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 244300,
+    "sha256": "0cea9f2750d9365e9cae0e2a0b48b2b772c7e52446a645df759cf324ecfca871"
+  },
+  {
+    "file": "assets/images/products/harbor-catalog.webp",
+    "page": "pages/products.html",
+    "subject": "Harbor & Hearth · catalog view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 205310,
+    "sha256": "01c7709f91f59783f2c143718c4996f3260b8962e20918aa415f04ad269e8694"
+  },
+  {
+    "file": "assets/images/products/harbor-detail.webp",
+    "page": "pages/product-details.html",
+    "subject": "Harbor & Hearth · detail view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 292608,
+    "sha256": "4ff481fbe24e2255a5e65910fe23f2b476d418b6f70959fa9e2e8d4d63460193"
+  },
+  {
+    "file": "assets/images/products/harbor-finder.webp",
+    "page": "pages/recommendations.html",
+    "subject": "Harbor & Hearth · finder view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 310656,
+    "sha256": "21b19304f7b545347687fb8c29e34eeebec3b529ae0c4ecb38e4f25f8bee51a2"
+  },
+  {
+    "file": "assets/images/products/harbor-home.webp",
+    "page": "pages/index.html",
+    "subject": "Harbor & Hearth · home view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 187614,
+    "sha256": "2f279fa3c67fae3138c50afe117bf7939b188364313d051c60e8287e4243360e"
+  },
+  {
+    "file": "assets/images/products/harbor-related.webp",
+    "page": "pages/product-details.html · Related games",
+    "subject": "Harbor & Hearth · related view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 189798,
+    "sha256": "c582b496171fd5da3f84ebf58f0992c4bd0dc0ca2c40b2b5a8cc1b3808152e31"
+  },
+  {
+    "file": "assets/images/products/moon-catalog.webp",
+    "page": "pages/products.html",
+    "subject": "Moonlit Market · catalog view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 177456,
+    "sha256": "eaa213c7920c8c776f43874872b6fbf06216e656b11ecd9cf000513dab7a45b5"
+  },
+  {
+    "file": "assets/images/products/moon-detail.webp",
+    "page": "pages/product-details.html",
+    "subject": "Moonlit Market · detail view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 309768,
+    "sha256": "29816bb85eb30453fe42fb1aa15792e5f044dfed9b98705723e0cc9f85ef9f33"
+  },
+  {
+    "file": "assets/images/products/moon-finder.webp",
+    "page": "pages/recommendations.html",
+    "subject": "Moonlit Market · finder view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 297488,
+    "sha256": "9db7ac161b0de760585214c17af8d6c304be6a5bc46abbdd1c723a77e4236def"
+  },
+  {
+    "file": "assets/images/products/moon-home.webp",
+    "page": "pages/index.html",
+    "subject": "Moonlit Market · home view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 198700,
+    "sha256": "1d8196680af151d2b01d59d48855c67c311dbc27143c70e6f48ff9c2f92fc69b"
+  },
+  {
+    "file": "assets/images/products/moon-related.webp",
+    "page": "pages/product-details.html · Related games",
+    "subject": "Moonlit Market · related view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 224654,
+    "sha256": "c666aa385d5ace22e67ba0cc8a914e5f90860675f97649be728b90af493fc091"
+  },
+  {
+    "file": "assets/images/products/orbit-catalog.webp",
+    "page": "pages/products.html",
+    "subject": "Orbit & Echo · catalog view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 124594,
+    "sha256": "108c6bef69e7a4ca068352db24ac7dd8f592e9f612581846af1e9e76a0242905"
+  },
+  {
+    "file": "assets/images/products/orbit-detail.webp",
+    "page": "pages/product-details.html",
+    "subject": "Orbit & Echo · detail view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 207714,
+    "sha256": "4bad19f31fa3088ae52aa64954217e99153530833c0d7d1621d58267d675e85b"
+  },
+  {
+    "file": "assets/images/products/orbit-finder.webp",
+    "page": "pages/recommendations.html",
+    "subject": "Orbit & Echo · finder view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 278152,
+    "sha256": "7216dded76ce1c15cf6031ea051af0b3167257238cb78c5bdfc3fc493ee3dfda"
+  },
+  {
+    "file": "assets/images/products/orbit-home.webp",
+    "page": "pages/index.html",
+    "subject": "Orbit & Echo · home view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 158132,
+    "sha256": "9e2571fb32dfc2c0edf94c4cbf1a1f6ec13c28e1f065241aea7ce15a0210192b"
+  },
+  {
+    "file": "assets/images/products/orbit-related.webp",
+    "page": "pages/product-details.html · Related games",
+    "subject": "Orbit & Echo · related view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 166066,
+    "sha256": "bdcbe82f42ac02e90243a4185d5a08c86cd66dedad015f272769d7e8505a5168"
+  },
+  {
+    "file": "assets/images/products/tower-catalog.webp",
+    "page": "pages/products.html",
+    "subject": "The Quiet Tower · catalog view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 85502,
+    "sha256": "97b5824fe08a1a5ef5e8540a5a2886d2f18db80d34c0cad2f539aa081b448322"
+  },
+  {
+    "file": "assets/images/products/tower-detail.webp",
+    "page": "pages/product-details.html",
+    "subject": "The Quiet Tower · detail view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 212952,
+    "sha256": "38f37ac0d6695119c1805bc04834528e4133f5a21b04a5b6a0ce4a2a99e475f5"
+  },
+  {
+    "file": "assets/images/products/tower-finder.webp",
+    "page": "pages/recommendations.html",
+    "subject": "The Quiet Tower · finder view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 200944,
+    "sha256": "d9c9b411507251af1d856680760a74a538335a82c31a756cac89432df6347bd3"
+  },
+  {
+    "file": "assets/images/products/tower-related.webp",
+    "page": "pages/product-details.html · Related games",
+    "subject": "The Quiet Tower · related view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 156490,
+    "sha256": "5e93111b136d3d639ccf46beb1d337be981fe171dd9d7aed172560f607ea2c4f"
+  },
+  {
+    "file": "assets/images/products/trail-catalog.webp",
+    "page": "pages/products.html",
+    "subject": "Solo Trail · catalog view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 170484,
+    "sha256": "01740362eefcba7962c6ce844ffadf9fb32fd44d4d8341bac1207054624c23a3"
+  },
+  {
+    "file": "assets/images/products/trail-detail.webp",
+    "page": "pages/product-details.html",
+    "subject": "Solo Trail · detail view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 293920,
+    "sha256": "c4580969479a9d603b48726fc5c5fb6047c8f75bacce4770bd67a307d4e6aca7"
+  },
+  {
+    "file": "assets/images/products/trail-finder.webp",
+    "page": "pages/recommendations.html",
+    "subject": "Solo Trail · finder view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 321750,
+    "sha256": "d134129cb69451e73922e9ea93fd7d3e54b15df970accaa4007a5b888fffb558"
+  },
+  {
+    "file": "assets/images/products/trail-related.webp",
+    "page": "pages/product-details.html · Related games",
+    "subject": "Solo Trail · related view",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 219232,
+    "sha256": "e18e39d6f9e382f63c15432a8a670584c8571e33fad8e9aec855919c3fe2cfda"
+  }
+]

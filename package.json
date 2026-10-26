@@ -1,0 +1,17 @@
+{
+    "name": "table-and-tale",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Table & Tale premium static HTML template",
+    "scripts": {
+        "build": "node scripts/build.cjs",
+        "start": "node scripts/serve.cjs",
+        "test": "node tests/site.spec.cjs"
+    },
+    "devDependencies": {
+        "@axe-core/playwright": "^4.14.0",
+        "@playwright/test": "1.61.1",
+        "bootstrap": "5.3.8",
+        "prettier": "3.6.2"
+    }
+}

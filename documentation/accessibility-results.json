@@ -1,0 +1,264 @@
+[
+  {
+    "page": "index",
+    "theme": "light",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 3
+      }
+    ]
+  },
+  {
+    "page": "index",
+    "theme": "dark",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 3
+      }
+    ]
+  },
+  {
+    "page": "index-2",
+    "theme": "light",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "index-2",
+    "theme": "dark",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "about",
+    "theme": "light",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "about",
+    "theme": "dark",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "products",
+    "theme": "light",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "products",
+    "theme": "dark",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "product-details",
+    "theme": "light",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "product-details",
+    "theme": "dark",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "recommendations",
+    "theme": "light",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "recommendations",
+    "theme": "dark",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "events",
+    "theme": "light",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "events",
+    "theme": "dark",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "event-details",
+    "theme": "light",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "event-details",
+    "theme": "dark",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "contact",
+    "theme": "light",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 2
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "contact",
+    "theme": "dark",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 2
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "404",
+    "theme": "light",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "404",
+    "theme": "dark",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 1
+      }
+    ]
+  },
+  {
+    "page": "coming-soon",
+    "theme": "light",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 2
+      }
+    ]
+  },
+  {
+    "page": "coming-soon",
+    "theme": "dark",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-prohibited-attr",
+        "nodes": 2
+      }
+    ]
+  },
+  {
+    "page": "contact validation errors",
+    "violations": []
+  }
+]

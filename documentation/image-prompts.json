@@ -1,0 +1,270 @@
+{
+  "tool": "Built-in ImageGen",
+  "optimization": "ImageMagick WebP, quality 80 (hero 82), width 1200 (hero 1400)",
+  "assets": [
+    {
+      "file": "assets/images/about/our-story.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. beautiful independent tabletop game boutique with wooden shelves and sunlit communal table, original photography. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/about/team-ellis.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. friendly adult man events host in cream overshirt, environmental portrait with game shelves. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/about/team-jules.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. friendly nonbinary adult tabletop designer with short curly hair in amber sweater, environmental portrait in studio. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/about/team-mara.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. friendly adult woman game curator in casual indigo shirt, candid environmental portrait in board game shop. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/events/family-detail.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. cozy close view of wooden animal game tokens and little hands on woodland board. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/events/family.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. parents and young children playing woodland animal board game on oak table, welcoming daylight. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/events/rpg-detail.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. cinematic close photograph of amber roleplay dice, handwritten adventure notebook and fantasy map on walnut table. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/events/rpg.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. small group of adults playing tabletop roleplaying game, illustrated maps, amber polyhedral dice and paper character sheets. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/events/strategy-detail.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. close overhead view of a strategy board with hexagonal mountain terrain and hands placing indigo explorer pieces. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/events/strategy.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. adults learning a mountain exploration strategy game at a welcoming communal table, no readable text. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/home-2/community-hero.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. diverse group of four adult friends enjoying a tactile strategy board game at a warm inviting boutique table, candid editorial wide shot. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/home-2/featured-night.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. overhead view of four friends hands around a beautifully arranged board game with wooden boats and tiles, evening warm light. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/home-2/moment-one.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. two adults laughing over a light card game at a boutique game cafe, intimate candid editorial photo. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/home-2/moment-three.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. family of parents and two school age children playing colorful animal tiles at a cozy table. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/home-2/moment-two.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. closeup of a hand rolling amber dice on an indigo felt gaming mat, shallow depth of field. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/home-2/store-story.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. quiet beautiful boutique board game shop interior with walnut shelving, indigo painted wall and oak gaming table. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/home/find-your-game.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. two friends choosing illustrated games from a boutique board game shelf, closeup of hands and beautiful boxes. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/home/tabletop-hero.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. Close three-quarter overhead view of a richly detailed original tabletop strategy game on a warm walnut table, ivory hexagonal landscape tiles, small indigo and amber wooden playing pieces, tasteful illustrated cards, a pair of hands moving a piece, warm natural afternoon window light, tactile paper and wood, sophisticated cozy mood, crisp realistic photography, landscape 3:2 composition. No readable text, no logos, no watermark.. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/home/weekly-atlas.webp",
+      "prompt": "Use case: photorealistic-natural. One premium original editorial photograph for Table & Tale fictional board game boutique. A premium strategy game with indigo and gold mountain themed Atlas of the Wild box on an oak table, expansive terrain hex board and tiny wooden explorers, overhead closeup. Warm natural lighting, refined tactile materials, indigo and warm ivory color accents, authentic unstaged mood, landscape 3:2 framing. No logos, no watermark, no prominent readable text."
+    },
+    {
+      "file": "assets/images/products/atlas-catalog.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Atlas of the Wild\". Product identity: indigo box with gold mountain linework and a compass, landscape hex tiles and wooden explorers. Sealed box standing three-quarter view on a warm ivory seamless background. Tasteful original packaging, accurate readable title \"Atlas of the Wild\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/atlas-detail.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Atlas of the Wild\". Product identity: indigo box with gold mountain linework and a compass, landscape hex tiles and wooden explorers. Open box and complete playing components thoughtfully arranged on a light oak table, close overhead view. Tasteful original packaging, accurate readable title \"Atlas of the Wild\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/atlas-finder.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Atlas of the Wild\". Product identity: indigo box with gold mountain linework and a compass, landscape hex tiles and wooden explorers. Game components laid out ready to play on a warm linen tabletop, diagonal overhead view, box visible. Tasteful original packaging, accurate readable title \"Atlas of the Wild\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/atlas-home.webp",
+      "prompt": "Use case: product-mockup. One sophisticated tabletop game product photo of fictional \"Atlas of the Wild\": indigo box with gold mountain linework and a compass, landscape hex tiles and wooden explorers. Game box with readable title \"Atlas of the Wild\" and a few components on a warm pale tabletop, viewed from eye level at a three-quarter angle. Elegant natural shadows, premium editorial studio style, square composition, no watermark, no third-party logos."
+    },
+    {
+      "file": "assets/images/products/atlas-related.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Atlas of the Wild\". Product identity: indigo box with gold mountain linework and a compass, landscape hex tiles and wooden explorers. Low side angle of the game box and a few distinctive components on a neutral stone plinth. Tasteful original packaging, accurate readable title \"Atlas of the Wild\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/bloom-catalog.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Botanical Hours\". Product identity: ivory box with intricate illustrated flowers, jigsaw pieces. Sealed box standing three-quarter view on a warm ivory seamless background. Tasteful original packaging, accurate readable title \"Botanical Hours\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/bloom-detail.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Botanical Hours\". Product identity: ivory box with intricate illustrated flowers, jigsaw pieces. Open box and complete playing components thoughtfully arranged on a light oak table, close overhead view. Tasteful original packaging, accurate readable title \"Botanical Hours\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/bloom-finder.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Botanical Hours\". Product identity: ivory box with intricate illustrated flowers, jigsaw pieces. Game components laid out ready to play on a warm linen tabletop, diagonal overhead view, box visible. Tasteful original packaging, accurate readable title \"Botanical Hours\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/bloom-home.webp",
+      "prompt": "Use case: product-mockup. One sophisticated tabletop game product photo of fictional \"Botanical Hours\": ivory box with intricate illustrated flowers, jigsaw pieces. Game box with readable title \"Botanical Hours\" and a few components on a warm pale tabletop, viewed from eye level at a three-quarter angle. Elegant natural shadows, premium editorial studio style, square composition, no watermark, no third-party logos."
+    },
+    {
+      "file": "assets/images/products/bloom-related.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Botanical Hours\". Product identity: ivory box with intricate illustrated flowers, jigsaw pieces. Low side angle of the game box and a few distinctive components on a neutral stone plinth. Tasteful original packaging, accurate readable title \"Botanical Hours\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/canopy-catalog.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Little Canopy\". Product identity: coral box with forest animals and oak leaves, chunky woodland tiles. Sealed box standing three-quarter view on a warm ivory seamless background. Tasteful original packaging, accurate readable title \"Little Canopy\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/canopy-detail.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Little Canopy\". Product identity: coral box with forest animals and oak leaves, chunky woodland tiles. Open box and complete playing components thoughtfully arranged on a light oak table, close overhead view. Tasteful original packaging, accurate readable title \"Little Canopy\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/canopy-finder.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Little Canopy\". Product identity: coral box with forest animals and oak leaves, chunky woodland tiles. Game components laid out ready to play on a warm linen tabletop, diagonal overhead view, box visible. Tasteful original packaging, accurate readable title \"Little Canopy\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/canopy-home.webp",
+      "prompt": "Use case: product-mockup. One sophisticated tabletop game product photo of fictional \"Little Canopy\": coral box with forest animals and oak leaves, chunky woodland tiles. Game box with readable title \"Little Canopy\" and a few components on a warm pale tabletop, viewed from eye level at a three-quarter angle. Elegant natural shadows, premium editorial studio style, square composition, no watermark, no third-party logos."
+    },
+    {
+      "file": "assets/images/products/canopy-related.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Little Canopy\". Product identity: coral box with forest animals and oak leaves, chunky woodland tiles. Low side angle of the game box and a few distinctive components on a neutral stone plinth. Tasteful original packaging, accurate readable title \"Little Canopy\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/dice-catalog.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Emberstone Dice\". Product identity: small charcoal dice case with brass dragon emblem, translucent amber polyhedral dice. Sealed box standing three-quarter view on a warm ivory seamless background. Tasteful original packaging, accurate readable title \"Emberstone Dice\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/dice-detail.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Emberstone Dice\". Product identity: small charcoal dice case with brass dragon emblem, translucent amber polyhedral dice. Open box and complete playing components thoughtfully arranged on a light oak table, close overhead view. Tasteful original packaging, accurate readable title \"Emberstone Dice\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/dice-finder.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Emberstone Dice\". Product identity: small charcoal dice case with brass dragon emblem, translucent amber polyhedral dice. Game components laid out ready to play on a warm linen tabletop, diagonal overhead view, box visible. Tasteful original packaging, accurate readable title \"Emberstone Dice\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/dice-home.webp",
+      "prompt": "Use case: product-mockup. One sophisticated tabletop game product photo of fictional \"Emberstone Dice\": small charcoal dice case with brass dragon emblem, translucent amber polyhedral dice. Game box with readable title \"Emberstone Dice\" and a few components on a warm pale tabletop, viewed from eye level at a three-quarter angle. Elegant natural shadows, premium editorial studio style, square composition, no watermark, no third-party logos."
+    },
+    {
+      "file": "assets/images/products/dice-related.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Emberstone Dice\". Product identity: small charcoal dice case with brass dragon emblem, translucent amber polyhedral dice. Low side angle of the game box and a few distinctive components on a neutral stone plinth. Tasteful original packaging, accurate readable title \"Emberstone Dice\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/fox-catalog.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Fox & Fable\". Product identity: ochre box with charming fox illustration, animal storytelling cards. Sealed box standing three-quarter view on a warm ivory seamless background. Tasteful original packaging, accurate readable title \"Fox & Fable\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/fox-detail.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Fox & Fable\". Product identity: ochre box with charming fox illustration, animal storytelling cards. Open box and complete playing components thoughtfully arranged on a light oak table, close overhead view. Tasteful original packaging, accurate readable title \"Fox & Fable\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/fox-finder.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Fox & Fable\". Product identity: ochre box with charming fox illustration, animal storytelling cards. Game components laid out ready to play on a warm linen tabletop, diagonal overhead view, box visible. Tasteful original packaging, accurate readable title \"Fox & Fable\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/fox-related.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Fox & Fable\". Product identity: ochre box with charming fox illustration, animal storytelling cards. Low side angle of the game box and a few distinctive components on a neutral stone plinth. Tasteful original packaging, accurate readable title \"Fox & Fable\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/harbor-catalog.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Harbor & Hearth\". Product identity: terracotta box with coastal village illustration, little wooden boats and resource tokens. Sealed box standing three-quarter view on a warm ivory seamless background. Tasteful original packaging, accurate readable title \"Harbor & Hearth\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/harbor-detail.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Harbor & Hearth\". Product identity: terracotta box with coastal village illustration, little wooden boats and resource tokens. Open box and complete playing components thoughtfully arranged on a light oak table, close overhead view. Tasteful original packaging, accurate readable title \"Harbor & Hearth\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/harbor-finder.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Harbor & Hearth\". Product identity: terracotta box with coastal village illustration, little wooden boats and resource tokens. Game components laid out ready to play on a warm linen tabletop, diagonal overhead view, box visible. Tasteful original packaging, accurate readable title \"Harbor & Hearth\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/harbor-home.webp",
+      "prompt": "Use case: product-mockup. One sophisticated tabletop game product photo of fictional \"Harbor & Hearth\": terracotta box with coastal village illustration, little wooden boats and resource tokens. Game box with readable title \"Harbor & Hearth\" and a few components on a warm pale tabletop, viewed from eye level at a three-quarter angle. Elegant natural shadows, premium editorial studio style, square composition, no watermark, no third-party logos."
+    },
+    {
+      "file": "assets/images/products/harbor-related.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Harbor & Hearth\". Product identity: terracotta box with coastal village illustration, little wooden boats and resource tokens. Low side angle of the game box and a few distinctive components on a neutral stone plinth. Tasteful original packaging, accurate readable title \"Harbor & Hearth\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/moon-catalog.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Moonlit Market\". Product identity: navy box with crescent moon and copper lantern illustration, trading cards and amber tokens. Sealed box standing three-quarter view on a warm ivory seamless background. Tasteful original packaging, accurate readable title \"Moonlit Market\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/moon-detail.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Moonlit Market\". Product identity: navy box with crescent moon and copper lantern illustration, trading cards and amber tokens. Open box and complete playing components thoughtfully arranged on a light oak table, close overhead view. Tasteful original packaging, accurate readable title \"Moonlit Market\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/moon-finder.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Moonlit Market\". Product identity: navy box with crescent moon and copper lantern illustration, trading cards and amber tokens. Game components laid out ready to play on a warm linen tabletop, diagonal overhead view, box visible. Tasteful original packaging, accurate readable title \"Moonlit Market\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/moon-home.webp",
+      "prompt": "Use case: product-mockup. One sophisticated tabletop game product photo of fictional \"Moonlit Market\": navy box with crescent moon and copper lantern illustration, trading cards and amber tokens. Game box with readable title \"Moonlit Market\" and a few components on a warm pale tabletop, viewed from eye level at a three-quarter angle. Elegant natural shadows, premium editorial studio style, square composition, no watermark, no third-party logos."
+    },
+    {
+      "file": "assets/images/products/moon-related.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Moonlit Market\". Product identity: navy box with crescent moon and copper lantern illustration, trading cards and amber tokens. Low side angle of the game box and a few distinctive components on a neutral stone plinth. Tasteful original packaging, accurate readable title \"Moonlit Market\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/orbit-catalog.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Orbit & Echo\". Product identity: lavender box with abstract planets and silver rings, playing cards with orbital patterns. Sealed box standing three-quarter view on a warm ivory seamless background. Tasteful original packaging, accurate readable title \"Orbit & Echo\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/orbit-detail.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Orbit & Echo\". Product identity: lavender box with abstract planets and silver rings, playing cards with orbital patterns. Open box and complete playing components thoughtfully arranged on a light oak table, close overhead view. Tasteful original packaging, accurate readable title \"Orbit & Echo\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/orbit-finder.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Orbit & Echo\". Product identity: lavender box with abstract planets and silver rings, playing cards with orbital patterns. Game components laid out ready to play on a warm linen tabletop, diagonal overhead view, box visible. Tasteful original packaging, accurate readable title \"Orbit & Echo\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/orbit-home.webp",
+      "prompt": "Use case: product-mockup. One sophisticated tabletop game product photo of fictional \"Orbit & Echo\": lavender box with abstract planets and silver rings, playing cards with orbital patterns. Game box with readable title \"Orbit & Echo\" and a few components on a warm pale tabletop, viewed from eye level at a three-quarter angle. Elegant natural shadows, premium editorial studio style, square composition, no watermark, no third-party logos."
+    },
+    {
+      "file": "assets/images/products/orbit-related.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Orbit & Echo\". Product identity: lavender box with abstract planets and silver rings, playing cards with orbital patterns. Low side angle of the game box and a few distinctive components on a neutral stone plinth. Tasteful original packaging, accurate readable title \"Orbit & Echo\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/tower-catalog.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"The Quiet Tower\". Product identity: deep purple box with geometric tower illustration, wooden balancing blocks. Sealed box standing three-quarter view on a warm ivory seamless background. Tasteful original packaging, accurate readable title \"The Quiet Tower\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/tower-detail.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"The Quiet Tower\". Product identity: deep purple box with geometric tower illustration, wooden balancing blocks. Open box and complete playing components thoughtfully arranged on a light oak table, close overhead view. Tasteful original packaging, accurate readable title \"The Quiet Tower\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/tower-finder.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"The Quiet Tower\". Product identity: deep purple box with geometric tower illustration, wooden balancing blocks. Game components laid out ready to play on a warm linen tabletop, diagonal overhead view, box visible. Tasteful original packaging, accurate readable title \"The Quiet Tower\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/tower-related.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"The Quiet Tower\". Product identity: deep purple box with geometric tower illustration, wooden balancing blocks. Low side angle of the game box and a few distinctive components on a neutral stone plinth. Tasteful original packaging, accurate readable title \"The Quiet Tower\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/trail-catalog.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Solo Trail\". Product identity: sage gray box with indigo hiking trail illustration, map cards and a single wooden hiker. Sealed box standing three-quarter view on a warm ivory seamless background. Tasteful original packaging, accurate readable title \"Solo Trail\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/trail-detail.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Solo Trail\". Product identity: sage gray box with indigo hiking trail illustration, map cards and a single wooden hiker. Open box and complete playing components thoughtfully arranged on a light oak table, close overhead view. Tasteful original packaging, accurate readable title \"Solo Trail\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/trail-finder.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Solo Trail\". Product identity: sage gray box with indigo hiking trail illustration, map cards and a single wooden hiker. Game components laid out ready to play on a warm linen tabletop, diagonal overhead view, box visible. Tasteful original packaging, accurate readable title \"Solo Trail\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    },
+    {
+      "file": "assets/images/products/trail-related.webp",
+      "prompt": "Use case: product-mockup. One premium realistic studio photograph of a fictional boutique tabletop game named \"Solo Trail\". Product identity: sage gray box with indigo hiking trail illustration, map cards and a single wooden hiker. Low side angle of the game box and a few distinctive components on a neutral stone plinth. Tasteful original packaging, accurate readable title \"Solo Trail\", no third party logos, no watermark. Soft natural light, refined indigo amber and ivory accents. Square image, generous breathing room, clear full product."
+    }
+  ]
+}
